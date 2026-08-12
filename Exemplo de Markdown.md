@@ -65,6 +65,22 @@ print("Oi")
 - [x] checkbox marcado
 - [ ] checkbox desmarcado
 
+> Caixa de conteudo
+
+> [!CAUTION]
+> caixa de erro
+
+> [!WARNING]
+> caixa de alerta
+
+> [!IMPORTANT]
+> caixa de aviso importante
+
+> [!TIP]
+> caixa de sucesso
+
+> [!NOTE]
+> caixa de informação
 
 [link da web](google.com)  
 [link do conteudo](#inserir-imagens)
