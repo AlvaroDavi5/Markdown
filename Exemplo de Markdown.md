@@ -1,3 +1,12 @@
+---
+tipo: template
+status: finalizado
+aliases:
+  - Exemplo
+tags:
+  - markdown
+  - exemplo
+---
 
 # Título H1
 ...
